@@ -33,8 +33,9 @@ class App extends Component {
   }
 
   // need to reset the game without refeshing the screen
-  
+
   clickCount = id => {
+    // eslint-disable-next-line
     this.state.cards.find((o, i) => {
       if (o.id ===id) {
         if (cards[i].count === 0) {
