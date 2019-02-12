@@ -2,7 +2,7 @@
 
 ## Overview
 
-For this assignment, we created a memory game with React. It required us to break up your application's UI into components, manage component state, and respond to user events.
+For this assignment, we created a memory game with React. It required us to break up your application's UI into components, manage component state, and respond to user events. Also, used was styled-components, https://www.styled-components.com/docs/basics. It allows us to write actual CSS code to style our components without mapping between components and stylesheets.  
 
 ### Submission on BCS
 
