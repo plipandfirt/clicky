@@ -7,6 +7,7 @@ For this assignment, we created a memory game with React. It required us to brea
 ### Submission on BCS
 
 https://github.com/plipandfirt/clicky
+https://plipandfirt.github.io/clicky
 
 
 ### Instructions
