@@ -33,4 +33,3 @@ For this assignment, we created a memory game with React. It required us to brea
 * **This assignment must be deployed.** Attempt to complete homework assignment as described in instructions. If unable to complete certain portions, please pseudocode these portions to describe what remains to be completed. Hosting on Github Pages and adding a README.md are required for this homework. In addition, add this homework to your portfolio. More information can be found below.
 
 - - -
-
